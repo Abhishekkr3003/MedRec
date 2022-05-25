@@ -192,8 +192,8 @@ class MyApp extends StatelessWidget {
 ```
 
 ## Solidity Contracts
-[Doctor](https://github.com/Abhishekkr3003/Medrec/solidity_contracts/doctor.sol)
+[Doctor](https://github.com/Abhishekkr3003/MedRec/blob/main/solidity_contracts/doctor.sol)
 
 
-[Patient](https://github.com/Abhishekkr3003/Medrec/solidity_contracts/patient.sol)
+[Patient](https://github.com/Abhishekkr3003/MedRec/blob/main/solidity_contracts/patient.sol)
 
