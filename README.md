@@ -26,7 +26,7 @@ Hence, by implementing Medical records on the blockchain we achieve the followin
 
 
 ## Download APK
-You can download the latest installable version of MedRec for Android from `Releases` or using this link: [MedRec.apk](https://github.com/Abhishekkr3003/MedRec/releases/download/v1.0.1/MedRec.apk)
+You can download the latest installable version of MedRec for Android from `Releases` or using this link: [MedRec.apk](https://github.com/Abhishekkr3003/MedRec/releases/download/v1.0.0/MedRec.apk)
 
 
 ## How to Use 
