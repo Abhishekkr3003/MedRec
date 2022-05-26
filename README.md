@@ -20,7 +20,7 @@ Hence, by implementing Medical records on the blockchain we achieve the followin
 
 ## Contents
 
-[Download APK](#Download-APK) • [How to Use](#how-to-use) • [Screen Shots](#screen-shots) • [Libraries & Tools Used](#libraries--tools-used) •  [Folder Structure](#folder-structure) • [Routes](#routes) • [Main](#main) • [Contracts](#Solidity-Contracts) 
+[Download APK](#Download-APK) • [How to Use](#how-to-use) • [Screenshots on Android](#screenshots-on-Android) • [Screenshots on Linux](#screenshots-on-Linux) • [Libraries & Tools Used](#libraries--tools-used) •  [Folder Structure](#folder-structure) • [Routes](#routes) • [Main](#main) • [Contracts](#Solidity-Contracts) 
 
 </div>
 
@@ -30,6 +30,8 @@ You can download the latest installable version of MedRec for Android from `Rele
 
 
 ## How to Use 
+
+Steps working for Android, IOS, MacOS, Windows, Linux and Web.
 
 **Step 1:**
 
@@ -56,7 +58,7 @@ flutter run
 ```
 
 
-## Screenshots
+## Screenshots on Android
 <table>
   
   <tr>
@@ -72,6 +74,30 @@ flutter run
   <tr>
     <td><img src="Screenshots/7.png" width=270 height=580></td>
     <td><img src="Screenshots/8.png" width=270 height=580></td>
+  </tr>
+ </table>
+
+ ## Screenshots on Linux
+
+ <table>
+  
+  <tr>
+    <td><img src="Screenshots/linux7.png"></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/linux1.png"></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/linux6.png"></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/liinux2.png"></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/linux3.png"></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/linux5.png"></td>
   </tr>
  </table>
 
